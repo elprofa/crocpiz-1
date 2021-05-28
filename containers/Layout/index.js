@@ -4,7 +4,7 @@ import Head from "next/head";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { GlobalCSS } from "../../public/styles/style";
 import Footer from "../../components/Footer";
-import NavBar from "../../components/nav";
+import NavBar from "../../components/MyNav";
 import { theme } from "../../theme";
 
 const Layout = ({ children, ...props }) => {
