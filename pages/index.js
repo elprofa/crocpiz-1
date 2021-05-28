@@ -28,7 +28,6 @@ export default function Home() {
         <Diapo/>
         <CardNewlatest/>
       </main>
-      <Footer/>
 
     </div>
   )
