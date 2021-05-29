@@ -10,7 +10,7 @@ const BestDishes=()=>{
 					<h2>Hamburger & <br/>
 						Sweet Potato Fries</h2>
 					<span className="price">
-						$19.99
+						dh 19.99
 					</span>
 					<Bouton texte="call us now" />
 				</div>

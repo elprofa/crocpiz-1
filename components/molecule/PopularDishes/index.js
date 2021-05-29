@@ -53,7 +53,7 @@ const PopularDishes = ({ deviceType }) => {
             <img src="/img/1_1.jpg" />
             <h3>Classic Havana Burger</h3>
             <p>Grilled beef patty, Turkey rashes, and burger relish.</p>
-            <span class="price">$ 21.00</span>
+            <span class="price">dh 21.00</span>
           </div>
           
         </div>
@@ -62,7 +62,7 @@ const PopularDishes = ({ deviceType }) => {
             <img src="/img/2.jpg" />
             <h3>Classic Havana Burger</h3>
             <p>Grilled beef patty, Turkey rashes, and burger relish.</p>
-            <span class="price">$ 21.00</span>
+            <span class="price">dh 21.00</span>
           </div>
         
         </div>
@@ -72,7 +72,7 @@ const PopularDishes = ({ deviceType }) => {
             <img src="/img/3.jpg" />
             <h3>Classic Havana Burger</h3>
             <p>Grilled beef patty, Turkey rashes, and burger relish.</p>
-            <span class="price">$ 21.00</span>
+            <span class="price">dh 21.00</span>
           </div>
           
         </div>
@@ -81,7 +81,7 @@ const PopularDishes = ({ deviceType }) => {
             <img src="/img/4.jpg" />
             <h3>Classic Havana Burger</h3>
             <p>Grilled beef patty, Turkey rashes, and burger relish.</p>
-            <span class="price">$ 21.00</span>
+            <span class="price">dh 21.00</span>
           </div>
           
         </div>
@@ -90,7 +90,7 @@ const PopularDishes = ({ deviceType }) => {
             <img src="/img/5.jpg" />
             <h3>Classic Havana Burger</h3>
             <p>Grilled beef patty, Turkey rashes, and burger relish.</p>
-            <span class="price">$ 21.00</span>
+            <span class="price">dh 21.00</span>
           </div>
         
         </div>
@@ -99,7 +99,7 @@ const PopularDishes = ({ deviceType }) => {
             <img src="/img/6.jpg" />
             <h3>Classic Havana Burger</h3>
             <p>Grilled beef patty, Turkey rashes, and burger relish.</p>
-            <span class="price">$ 21.00</span>
+            <span class="price">dh 21.00</span>
           </div>
         
         </div>

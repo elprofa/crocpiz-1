@@ -53,7 +53,7 @@ const MenuPizza = (props) => {
                             <div className="menu-cont">
                               <h4>
                                 <span className="title-menu">Oakey Smokey Pizzas k</span>
-                                <span className="price">$21.00</span>
+                                <span className="price">dh 21.00</span>
                               </h4>
                               <p>Smoke mozzarella, basil and picorino Romano</p>
                             </div>
@@ -65,7 +65,7 @@ const MenuPizza = (props) => {
                             <div className="menu-cont">
                               <h4>
                                 <span className="title-menu">White Ricotta Pizza</span>
-                                <span className="price">$24.00</span>
+                                <span className="price">dh 24.00</span>
                               </h4>
                               <p>Smoke mozzarella, basil and picorino Romano</p>
                             </div>
@@ -77,7 +77,7 @@ const MenuPizza = (props) => {
                             <div className="menu-cont">
                               <h4>
                                 <span className="title-menu">Original Margherita Pizza</span>
-                                <span className="price">$22.00</span>
+                                <span className="price">dh 22.00</span>
                               </h4>
                               <p>Smoke mozzarella, basil and picorino Romano</p>
                             </div>
@@ -89,7 +89,7 @@ const MenuPizza = (props) => {
                             <div className="menu-cont">
                               <h4>
                                 <span className="title-menu">Calzone</span>
-                                <span className="price">$23.00</span>
+                                <span className="price">dh 23.00</span>
                               </h4>
                               <p>Smoke mozzarella, basil and picorino Romano</p>
                             </div>
@@ -101,7 +101,7 @@ const MenuPizza = (props) => {
                             <div className="menu-cont">
                               <h4>
                                 <span className="title-menu">Mercy Margarita</span>
-                                <span className="price">$18.00</span>
+                                <span className="price">dh 18.00</span>
                               </h4>
                               <p>Smoke mozzarella, basil and picorino Romano</p>
                             </div>
@@ -127,7 +127,7 @@ const MenuPizza = (props) => {
                             <div className="menu-cont">
                               <h4>
                                 <span className="title-menu">Spaghetti all’Amatriciana</span>
-                                <span className="price">$21.00</span>
+                                <span className="price">dh 21.00</span>
                               </h4>
                               <p>Smoke mozzarella, basil and picorino Romano</p>
                             </div>
@@ -139,7 +139,7 @@ const MenuPizza = (props) => {
                             <div className="menu-cont">
                               <h4>
                                 <span className="title-menu">Spaghetti Carbonara</span>
-                                <span className="price">$24.00</span>
+                                <span className="price">dh 24.00</span>
                               </h4>
                               <p>Smoke mozzarella, basil and picorino Romano</p>
                             </div>
@@ -151,7 +151,7 @@ const MenuPizza = (props) => {
                             <div className="menu-cont">
                               <h4>
                                 <span className="title-menu">Lasagna</span>
-                                <span className="price">$22.00</span>
+                                <span className="price">dh 22.00</span>
                               </h4>
                               <p>Smoke mozzarella, basil and picorino Romano</p>
                             </div>
@@ -187,7 +187,7 @@ const MenuPizza = (props) => {
                             <div className="menu-cont">
                               <h4>
                                 <span className="title-menu">The Double Barrel Meat Feast</span>
-                                <span className="price">$21.00</span>
+                                <span className="price">dh 21.00</span>
                               </h4>
                               <p>Smoke mozzarella, basil and picorino Romano</p>
                             </div>
@@ -199,7 +199,7 @@ const MenuPizza = (props) => {
                             <div className="menu-cont">
                               <h4>
                                 <span className="title-menu">classNameic Havana Burger</span>
-                                <span className="price">$24.00</span>
+                                <span className="price">dh 24.00</span>
                               </h4>
                               <p>Smoke mozzarella, basil and picorino Romano</p>
                             </div>
@@ -211,7 +211,7 @@ const MenuPizza = (props) => {
                             <div className="menu-cont">
                               <h4>
                                 <span className="title-menu">Single BBQ Chicken Burger</span>
-                                <span className="price">$22.00</span>
+                                <span className="price">dh 22.00</span>
                               </h4>
                               <p>Smoke mozzarella, basil and picorino Romano</p>
                             </div>
@@ -223,7 +223,7 @@ const MenuPizza = (props) => {
                             <div className="menu-cont">
                               <h4>
                                 <span className="title-menu">Havana Speical Burger Combo</span>
-                                <span className="price">$23.00</span>
+                                <span className="price">dh 23.00</span>
                               </h4>
                               <p>Smoke mozzarella, basil and picorino Romano</p>
                             </div>
