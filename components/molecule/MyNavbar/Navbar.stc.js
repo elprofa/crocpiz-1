@@ -8,6 +8,10 @@ const NavBarStc=Styled.header`
     width: 100%;
     background: transparent;
     z-index: 999999;
+    a.navbar-brand {
+        font-size: 25px !important;
+        font-weight: 800;
+    }
     nav 
     {
         padding: 0;

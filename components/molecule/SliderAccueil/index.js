@@ -2,6 +2,7 @@ import React from 'react';
 import Slider from './Slider';
 import content from './Content';
 import SliderAccueilStc from './SliderAccueil.stc'
+import Bouton from '../../shared/bouton';
 function Autoplay() {
 	return (
 		<SliderAccueilStc>
@@ -15,7 +16,7 @@ function Autoplay() {
 						<div className="container inner">
 							<h1>{item.title}</h1>
 							<p>{item.description}</p>
-							<button>{item.button}</button>
+							<Bouton texte={item.button} />
 						</div>
 						<section>
 							<img src={item.userProfile} alt={item.user} />

@@ -4,7 +4,9 @@ const SliderAccueilStc=Styled.section`
 
     overflow: hidden;
     background: #111111;
-
+	@media (max-width: 992px) {
+		display: none !important;
+	}
 
 
     .slider {

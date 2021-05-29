@@ -1,3 +1,4 @@
+import Bouton from '../../shared/bouton';
 import BestDishesStc from './BestDishes.stc'
 
 const BestDishes=()=>{
@@ -11,7 +12,7 @@ const BestDishes=()=>{
 					<span className="price">
 						$19.99
 					</span>
-					<a href="menu.html" className="button-two">Add To Cart</a>
+					<Bouton texte="call us now" />
 				</div>
 			</div>
 		</BestDishesStc>

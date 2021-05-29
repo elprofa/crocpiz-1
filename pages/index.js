@@ -26,7 +26,6 @@ export default function Home() {
           <MenuPizza/>
         </div>
         <Diapo/>
-        <CardNewlatest/>
       </main>
 
     </div>

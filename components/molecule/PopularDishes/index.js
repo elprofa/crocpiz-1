@@ -54,7 +54,6 @@ const PopularDishes = ({ deviceType }) => {
             <h3>Classic Havana Burger</h3>
             <p>Grilled beef patty, Turkey rashes, and burger relish.</p>
             <span class="price">$ 21.00</span>
-            <a href="menu.html" class="button-one">Add To Cart</a>
           </div>
           
         </div>
@@ -64,7 +63,6 @@ const PopularDishes = ({ deviceType }) => {
             <h3>Classic Havana Burger</h3>
             <p>Grilled beef patty, Turkey rashes, and burger relish.</p>
             <span class="price">$ 21.00</span>
-            <a href="menu.html" class="button-one">Add To Cart</a>
           </div>
         
         </div>
@@ -75,7 +73,6 @@ const PopularDishes = ({ deviceType }) => {
             <h3>Classic Havana Burger</h3>
             <p>Grilled beef patty, Turkey rashes, and burger relish.</p>
             <span class="price">$ 21.00</span>
-            <a href="menu.html" class="button-one">Add To Cart</a>
           </div>
           
         </div>
@@ -85,7 +82,6 @@ const PopularDishes = ({ deviceType }) => {
             <h3>Classic Havana Burger</h3>
             <p>Grilled beef patty, Turkey rashes, and burger relish.</p>
             <span class="price">$ 21.00</span>
-            <a href="menu.html" class="button-one">Add To Cart</a>
           </div>
           
         </div>
@@ -95,7 +91,6 @@ const PopularDishes = ({ deviceType }) => {
             <h3>Classic Havana Burger</h3>
             <p>Grilled beef patty, Turkey rashes, and burger relish.</p>
             <span class="price">$ 21.00</span>
-            <a href="menu.html" class="button-one">Add To Cart</a>
           </div>
         
         </div>
@@ -105,7 +100,6 @@ const PopularDishes = ({ deviceType }) => {
             <h3>Classic Havana Burger</h3>
             <p>Grilled beef patty, Turkey rashes, and burger relish.</p>
             <span class="price">$ 21.00</span>
-            <a href="menu.html" class="button-one">Add To Cart</a>
           </div>
         
         </div>

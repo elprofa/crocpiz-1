@@ -26,7 +26,7 @@ const MyNavbar = (props) => {
     <NavBarStc>
       <Container>
       <Navbar color="light" light expand="md">
-        <NavbarBrand href="/">reactstrap</NavbarBrand>
+        <NavbarBrand href="/">CROCPIZ</NavbarBrand>
         <NavbarToggler onClick={toggle} />
         <Collapse isOpen={isOpen} navbar>
           <Nav className="navbar-nav m-auto" navbar>
@@ -36,23 +36,16 @@ const MyNavbar = (props) => {
             <NavItem>
               <NavLink href="/menu">Menu</NavLink>
             </NavItem>
+           
             <NavItem>
-              <NavLink href="/reservation">Reservation</NavLink>
+              <NavLink href="">Contact</NavLink>
             </NavItem>
-            <NavItem>
-              <NavLink href="/apropos">A propos</NavLink>
-            </NavItem>
-            <NavItem>
-              <NavLink href="/actualite">Actualités</NavLink>
-            </NavItem>
-            <NavItem>
-              <NavLink href="/contact">Contact</NavLink>
-            </NavItem>
+            
           </Nav>
           <NavbarText>
               <Link href="/">
                 <a>
-                    Reservez une table
+                    Call us now
                 </a>
             </Link>
           </NavbarText>
