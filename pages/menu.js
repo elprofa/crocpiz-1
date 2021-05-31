@@ -1,6 +1,6 @@
 import Head from 'next/head'
 import { Container } from 'reactstrap';
-import MenuSection from '../components/molecule/menuSection';
+import MenuSection from '../components/molecule/MenuSection';
 import PageBanList from '../components/molecule/PageBanList';
 import PageBannerSection from '../components/molecule/PageBannerSection';
 import TitleSection from '../components/molecule/TitleSection';
