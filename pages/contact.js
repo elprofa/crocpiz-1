@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import { Container } from 'reactstrap';
+import ContactSection from '../components/molecule/ContactSection';
 import MenuSection from '../components/molecule/MenuSection';
 import PageBanList from '../components/molecule/PageBanList';
 import PageBannerSection from '../components/molecule/PageBannerSection';
@@ -16,7 +17,7 @@ export default function Menu() {
         contenu:<li> {">"} </li>
     },
     {
-        contenu:<li><a href=""><Texte texte="Our Menu" fontTaille="16px" /></a></li>
+        contenu:<li><a href=""><Texte texte ="Contact" fontTaille="16px" /></a></li>
     },
 ]
 
@@ -28,9 +29,9 @@ export default function Menu() {
       </Head>
 
       <main className="main">
-        <PageBannerSection titre="Our Menu" sousTitre="good food fresh ingredients" />
+        <PageBannerSection titre="Contact" sousTitre="get in touch" />
         <PageBanList filAriannes={filAriannes} />
-        <MenuSection />
+        <ContactSection />
       </main>
 
     </div>

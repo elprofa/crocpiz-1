@@ -3,13 +3,13 @@ import Titre from '../../shared/titre';
 import PageBannerSectionStc from './PageBannerSection.stc';
 
 
-const PageBannerSection=()=>{
+const PageBannerSection=(props)=>{
 
     return(
         <PageBannerSectionStc>
             <div className="container">
-                <Titre texte="Our Menu" />
-                <Texte texte="good food fresh ingredients" fontTaille="22px" couleur='#999999' />
+                <Titre texte={props.titre} />
+                <Texte texte={props.sousTitre} fontTaille="22px" couleur='#999999' />
 			</div>
         </PageBannerSectionStc>
     )
